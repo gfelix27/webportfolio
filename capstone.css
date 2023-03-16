@@ -1,0 +1,100 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Anton', sans-serif;
+}
+
+
+h1 {
+	font-family: 'Climate Crisis', cursive !important;
+}
+
+blockquote {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.bg-image {
+	display: block;
+	min-height: 100vh;
+	min-width: 100vw;
+	background-image: url(./images/bg9.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+
+}
+
+.navbar {
+
+  background-color: rgba(255, 255, 255, 0);
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: all 0.5s ease-in-out;
+    position: relative;
+    text-transform: uppercase;
+
+}
+
+.container-fluid {
+	padding-top: 100px;
+    font-weight: 400;
+}
+
+.apply-button {
+	background-color: white;
+	border-radius: 150px;
+}
+/* arrow-sm */
+
+#arrow {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+  height: 50px;
+}
+
+.mb-3 {
+	font-family: 'Climate Crisis', cursive !important;
+}
+
+.text-justify {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.p-5 {
+		display: block;
+		background-image: url(./images/bg9.jpg);
+		background-repeat: no-repeat;
+		background-position: center;
+}
+
+.card-body {
+		display: block;
+		background-image: url(./images/bg9.jpg);
+		background-repeat: no-repeat;
+		background-position: top;
+}
+
+.aboutus {
+	font-family: 'Climate Crisis', cursive !important;
+}
+
+.form {
+	display: block;
+		background-image: url(./images/bg9.jpg);
+		background-repeat: no-repeat;
+		background-position: top;
+		margin: none;
+}
+
+#aboutbg {
+	display: block;
+		background-image: url(./images/bg9.jpg);
+		background-repeat: no-repeat;
+		background-position: bottom;
+}
